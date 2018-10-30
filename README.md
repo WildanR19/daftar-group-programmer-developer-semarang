@@ -23,7 +23,8 @@ Kumpulan Link dan Group Telegram untuk belajar tentang pemprograman di Kota Sema
   + [firodev](https://t.me/firodev)
   
 
-
+### Link Google
+  + [google](google.com)
 
 
 
